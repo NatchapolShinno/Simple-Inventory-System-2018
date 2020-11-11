@@ -1,0 +1,34 @@
+DigitCode    : CPE_10001 
+Category     : computer
+Date         : 12 Dec 2018 
+Name         : E A
+Phone Number : 0123456789
+Room         : 1112
+Description  : asdf 
+
+DigitCode    : CPE_10002 
+Category     : computer
+Date         : 12 Dec 2018 
+Name         : A A
+Phone Number : 0123446789
+Room         : 1112
+Description  : fbfbbf 
+
+DigitCode    : CPE_10003 
+Category     : computer
+Date         : 12 Dec 2018 
+Name         : D D
+Phone Number : 012341234121122
+Room         : 1122
+Description  : asdf asdf asdf 
+
+DigitCode    : CPE_50001 
+Category     : other
+Subcategory  : -
+Operating System : -
+Date         : 12 Dec 2018 
+Name         : f f
+Phone Number : 0123123123
+Room         : 1123
+Description  : asdf adsf 
+
